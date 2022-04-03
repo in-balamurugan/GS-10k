@@ -12,7 +12,7 @@ Goldman Sachs 10-k filings downloaded as text file from Sagemaker Jumpstart SDK.
 2) Question and Answering output is served in notebook
 
 ## Acknowledgments
-1) (Julien Simon HF space and videos) [https://huggingface.co/juliensimon]
+1) Julien Simon HF [space](https://huggingface.co/juliensimon) and videos
 2) Natural Language Processing with Transformers
 3) Haystack NLP Tutorial
 

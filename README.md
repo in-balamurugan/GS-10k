@@ -1,4 +1,4 @@
-# GS-10k - Semantic search and Q&A in 10k Filings
+# Semantic search and Question & Answering in 10k Filings
 ## Motivation
 This project is a demo of serach and Question and Answering on 10-k filings using transformers:
 1) Semantics search using sentence transformer and 

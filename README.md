@@ -9,12 +9,12 @@ Goldman Sachs 10-k filings downloaded as text file from Sagemaker Jumpstart SDK.
 
 ## Output
 1) Semantic search demo can be found in hugging face space [here](https://huggingface.co/spaces/balamurugan/search-10k-filings).
-![](Images/SS1.png)
+![](Images/semantic_search.png)
 
 2) Question and Answering output is served in notebook<br>
 <br>
 
-![](Images/QnA1.png)
+![](Images/qna.png)
 
 ## Acknowledgments
 1) Julien Simon HF [space](https://huggingface.co/juliensimon) and videos
